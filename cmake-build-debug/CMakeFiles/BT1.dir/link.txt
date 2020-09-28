@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BT1.dir/run.cpp.o  -o BT1  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libglut.so 

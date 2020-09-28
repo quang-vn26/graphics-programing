@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/quangg/Downloads/Books/School/Do hoa may tinh/code/BT1/run.cpp
+stdio.h
+-
+math.h
+-
+GL/glut.h
+-
+

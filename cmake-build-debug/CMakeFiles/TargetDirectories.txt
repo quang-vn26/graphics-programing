@@ -1,0 +1,3 @@
+/home/quangg/Downloads/Books/School/Do hoa may tinh/code/BT1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/quangg/Downloads/Books/School/Do hoa may tinh/code/BT1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/quangg/Downloads/Books/School/Do hoa may tinh/code/BT1/cmake-build-debug/CMakeFiles/BT1.dir
